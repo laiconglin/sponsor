@@ -1,2 +1,1 @@
-# sponsor
-打赏页面
+![IMG_1702.JPG](./IMG_1702.JPG)
